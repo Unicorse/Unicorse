@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+## I'm currently learning SQL and Python.
+## I have an idea for an app, but I'm working on smaller bits of code towards the bigger picture. I'm using Python in order to get more familiar with it and to experience its abilities.
+## My family LOVES Bluey, hence my user name. I don't resemble Unicorse in real life. For real life.
 
 <!--
 **Unicorse/Unicorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
